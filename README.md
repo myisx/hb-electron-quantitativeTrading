@@ -6,8 +6,8 @@
 - **其实一开始是自己打算自己一个人用的，所以代码规范方面没考虑太多怎么方便怎么来....**
 
 ## 展示
-![界面](http://chuantu.xyz/t6/741/1612169591x989559133.png)
-![邮件](http://chuantu.xyz/t6/741/1612169629x1700340465.png)
+![界面](https://raw.githubusercontent.com/myisx/hb-electron-quantitativeTrading/main/static/jiemian.png)
+![邮件](https://raw.githubusercontent.com/myisx/hb-electron-quantitativeTrading/main/static/youxiang.png)
 
 ## 界面
 - UI界面用的是这位大哥的 [BaseDesktopApp](https://github.com/williamfzc/BaseDesktopApp)
