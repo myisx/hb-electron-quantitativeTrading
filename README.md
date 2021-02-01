@@ -5,6 +5,10 @@
 - 当然 后续如果有时间了 我会重新用java+vue开发一套。
 - **其实一开始是自己打算自己一个人用的，所以代码规范方面没考虑太多怎么方便怎么来....**
 
+## 展示
+![界面](http://chuantu.xyz/t6/741/1612169591x989559133.png)
+![邮件](http://chuantu.xyz/t6/741/1612169629x1700340465.png)
+
 ## 界面
 - UI界面用的是这位大哥的 [BaseDesktopApp](https://github.com/williamfzc/BaseDesktopApp)
 - 作为一名java后端 写的UI真的不能看
